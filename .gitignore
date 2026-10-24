@@ -1,5 +1,3 @@
-# Temporarily exclude the oversized video
-/priya_mess_video.mp4
 
 # Exclude local environment files
 .env
